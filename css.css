@@ -1,0 +1,458 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.navbar_bg {
+    background-color: auto;
+}
+.new_text_styel{
+    font-size: 30px;
+    color: black;
+    padding-right: 20px;
+}
+.second_text_style{
+    font-size: 20px;
+    color: black;
+    
+}
+.navbar_image {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+.banner-section-bg-container {
+  background-image: url("https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=627&amp;w=1200");
+  height: 100vh;
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+.banner-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 300;
+}
+.banner-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+
+.item-box{
+  background-color: white;
+  background-size: cover;
+  width: 80%;
+  
+}
+.list-brands-img {
+  width: 100px;
+  height: 100px;
+  padding: 15px;
+
+}
+.about_us_image {
+  width:72%;
+  height: 620px;
+  border-radius: 20px;
+  padding: 20px;
+  
+}
+.about_us_image_1{
+  width: 80%;
+  height: 500px;
+  border-radius: 20px;
+  padding: 20px;
+  padding-right: 60px;
+}
+.Our_services{
+  background-color: white;
+}
+
+.about_text{
+  color:rgb(94, 4, 4);
+  font-size: 25px;
+  font-weight: bold;
+}
+.about_us_container{
+  padding: 20px;
+  padding-top: 60px;
+}
+.question_card{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  border-width: 5px;
+  box-shadow: 5px;
+  width: 85%;
+  padding-left: 185px;
+  margin: 0%;
+}
+.question_card1{
+  background-color: gray;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  height: 50px;
+
+}
+.main_card{
+  background-color: white;
+}
+
+input {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+ 
+
+.name{
+  border-radius: 10px;
+  border-color: red;
+  width: 30%;
+  height: 40%;
+}
+.message{
+  border-color: red;
+  border-radius: 10px;
+  width: 30%;
+  height: 800%;
+}
+.button{
+  background-color: red;
+  color: black;
+  width: 100px;
+  height: 40%;
+}
+.contact_image{
+  width: 70%;
+  height: 400px;
+  padding: 20px;
+  padding-left: 380px;
+}
+
+.wcu-section {
+  background-color: #f9fbfe;
+}
+.wcu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.wcu-card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.wcu-card-image {
+  width: 200px;
+  height: 200px;
+}
+.market_icon {
+  width: 110px;
+  height: 110px;
+
+}
+.market_icon_1{
+  width: 180px;
+  height: 200px;
+}
+.third-image_style {
+   width: 180px;
+  height: 180px;
+}
+.wcu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.wcu-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.offers {
+  color: #323f4b;
+  font-style: italic;
+  font-weight: 600;
+}
+.explore-menu-section {
+  background-color: white;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-item-image {
+  border-radius: 16px;
+}
+.menu-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.icon {
+  
+  width: 100px;
+  padding-top: 50px;
+}
+.footer-section {
+  background-color: #0d2436;
+}
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+/* fb css */
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f4f4f9;
+}
+
+header {
+  background-color: #70a2e3;
+  color: white;
+  text-align: center;
+  padding: 1.5em 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  padding: 2em;
+}
+
+.idea, .feedback-form, .add-idea {
+  border: 1px solid #ddd;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  border-radius: 8px;
+  background-color: white;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+form button {
+  background-color: #70a2e3;
+  color: white;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #70a2e3;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background: #70a2e3;
+  margin-top: 2em;
+  font-size: 0.9em;
+}
+
+/* market css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f7f7f7;
+}
+
+header {
+  background-color: #70a2e3;
+  color: white;
+  text-align: center;
+  padding: 1.5em 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  padding: 2em;
+}
+
+.idea-submission, .tools {
+  border: 1px solid #ddd;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  border-radius: 8px;
+  background-color: white;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+form button {
+  background-color: #70a2e3;
+  color: white;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #70a2e3;
+}
+
+.tools ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.tools ul li {
+  margin-bottom: 1em;
+}
+
+.tools a {
+  color: #70a2e3;
+  text-decoration: none;
+}
+
+.tools a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background:#70a2e3;
+  font-size: 0.9em;
+}
+
+ /* fund raising  */
+
+ 
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #70a2e3;
+  color: white;
+  text-align: center;
+  padding: 1.5em 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  padding: 2em;
+}
+
+.idea {
+  border: 1px solid #ddd;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.idea button {
+  background-color:#70a2e3;
+  color: white;
+  border: none;
+  padding: 0.7em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.idea button:hover {
+  background-color: #70a2e3;
+}
+
+form label {
+  display: block;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+form input, form textarea, form button {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 1em;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background:#70a2e3;
+  margin-top: 2em;
+  font-size: 0.9em;
+}

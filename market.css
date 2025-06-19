@@ -1,0 +1,82 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #70a2e3;
+    color: white;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2em;
+}
+
+.idea-submission, .tools {
+    border: 1px solid #ddd;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    border-radius: 8px;
+    background-color: white;
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 0.7em;
+    margin-bottom: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #70a2e3;
+    color: white;
+    border: none;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #70a2e3;
+}
+
+.tools ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.tools ul li {
+    margin-bottom: 1em;
+}
+
+.tools a {
+    color: #70a2e3; 
+    text-decoration: none;
+}
+
+.tools a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background: #70a2e3;
+    font-size: 0.9em;
+}
